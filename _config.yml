@@ -1,6 +1,6 @@
 name: Jekyll tutorial
 pygments: true
-baseurl: /jekyll_tutorial
+base_url: /jekyll_tutorial
 
 collections:
   authors:
